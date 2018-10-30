@@ -10,14 +10,14 @@ The Boron is great for connecting existing projects to the Particle Device Cloud
 
 ### Features
 
- * u-blox SARA R410 LTE modem (Boron LTE)
+* u-blox SARA R410 LTE modem (Boron LTE)
   * LTE CAT M1/ NB1 module with global hardware support (MVNO support for US only) 
   * 3GPP Release 13 LTE Cat M1 
- * u-blox SARA U201 2G/3G modem (Boron 2G/3G)
+* u-blox SARA U201 2G/3G modem (Boron 2G/3G)
   * HSPA/GSMqq with global hardware and SIM support 
   * Bands 800/850/900/1900/2100 MHz 
   * 3GPP Release 7 
- * Nordic Semiconductor nRF52840 SoC 
+* Nordic Semiconductor nRF52840 SoC 
   * ARM Cortex-M4F 32-bit processor @ 64MHz 
   * 1MB flash, 256KB RAM 
   * IEEE 802.15.4-2006: 250 Kbps 
@@ -26,19 +26,19 @@ The Boron is great for connecting existing projects to the Particle Device Cloud
   * ARM TrustZone CryptoCell-310 Cryptographic and security module 
   * Up to +8 dBm TX power (down to -20 dBm in 4 dB steps) 
   * NFC-A tag
- * On-board additional 2MB SPI flash
- * 20 mixed signal GPIO (6 x Analog, 8 x PWM), UART, I2C, SPI
- * Micro USB 2.0 full speed (12 Mbps)
- * Integrated Li-Po charging and battery connector
- * JTAG (SWD) Connector
- * RGB status LED
- * Reset and Mode buttons
- * Dual SIM support: Nano 4FF and MFF2
- * On-board PCB antenna
- * u.FL connector for external antenna
- * Meets the Adafruit Feather [specification](https://learn.adafruit.com/adafruit-feather/feather-specification) in dimensions and pinout
- * FCC and PTCRB certified
- * RoHS compliant (lead-free)
+* On-board additional 2MB SPI flash
+* 20 mixed signal GPIO (6 x Analog, 8 x PWM), UART, I2C, SPI
+* Micro USB 2.0 full speed (12 Mbps)
+* Integrated Li-Po charging and battery connector
+* JTAG (SWD) Connector
+* RGB status LED
+* Reset and Mode buttons
+* Dual SIM support: Nano 4FF and MFF2
+* On-board PCB antenna
+* u.FL connector for external antenna
+* Meets the Adafruit Feather [specification](https://learn.adafruit.com/adafruit-feather/feather-specification) in dimensions and pinout
+* FCC and PTCRB certified
+* RoHS compliant (lead-free)
 
 ### Structure of this repository:
  - /eagle
